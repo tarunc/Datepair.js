@@ -9,8 +9,8 @@
         "url": "https://github.com/jonthornton"
     },
     "repository": {
-        "type" : "git",
-        "url" : "https://github.com/jonthornton/Datepair.js.git"
+        "type": "git",
+        "url": "https://github.com/jonthornton/Datepair.js.git"
     },
     "license": "MIT",
     "devDependencies": {
@@ -20,5 +20,15 @@
         "grunt-contrib-jshint": "^0.11.3",
         "grunt-contrib-watch": "~0.5.1"
     },
-    "keywords": [ "timepicker", "datepicker", "time", "date", "picker", "ui", "calendar", "input", "form" ]
+    "keywords": [
+        "timepicker",
+        "datepicker",
+        "time",
+        "date",
+        "picker",
+        "ui",
+        "calendar",
+        "input",
+        "form"
+    ]
 }
