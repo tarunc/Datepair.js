@@ -1,4 +1,4 @@
-var _ONE_DAY = 86400000;
+var _ONE_DAY = 86400001;
 var jq = window.Zepto || window.jQuery;
 
 function simpleExtend(obj1, obj2) {
